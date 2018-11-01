@@ -36,6 +36,7 @@ Security is banging!
 
 * [Metasploitable](https://metasploit.help.rapid7.com/docs/metasploitable-2-exploitability-guide) - Vulnerable Linux image for testing
 * [NodeGoat](https://github.com/owasp/nodegoat) - Vulnerable NodeJS app for testing
+* [JuiceBox](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) - App for security testing education, includes the top 10 OWASP security risks
 
 # Tools and Resources
 
