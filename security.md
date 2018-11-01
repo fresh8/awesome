@@ -80,7 +80,7 @@ IAST tools run security tests while the application is in use in production, wor
 * [John the Ripper](https://www.openwall.com/john/) - Password cracking tool
 * [Sysdig Inspect](https://sysdig.com/opensource/inspect/) - Capturing and analysis of kernel level instrumentation
 
-## Other Tooling
+## Other Tooling
 
 * [Social Engineering Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 * [Kali Linux](https://kali.org/) - SecOps Linux OS with multiple tools available for use
