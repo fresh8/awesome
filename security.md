@@ -53,6 +53,7 @@ SAST tools analyse source code to look for security issues in an application dur
 * [Github Security Alerts](https://help.github.com/articles/about-security-alerts-for-vulnerable-dependencies/) - Dependency scanning, multiple languages
 * [gosec](https://github.com/securego/gosec) - Golang
 * [NodeJsScan](https://github.com/ajinabraham/NodeJsScan) - JS
+* [InsiderSec](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 
 ### DAST (Dynamic Application Security Testing)
 
